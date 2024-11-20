@@ -1,28 +1,26 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>電子音樂</title>
-    <link rel="stylesheet" href="styles.css">
+<title>電子音樂</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>電子音樂</h1>
-        <p>沉浸在節奏與旋律交錯的世界</p>
-    </header>
-    <main>
-        <section class="intro">
-            <h2>關於電子音樂</h2>
-            <p>電子音樂是一種利用電子合成器、電腦或其他數位工具創作的音樂形式，展現出強烈的科技感與創新精神。</p>
-        </section>
-        <section class="player">
-            <h2>聆聽範例</h2>
-            <button class="play-button">播放音樂</button>
-        </section>
-    </main>
-    <footer>
-        <p>聯絡我們：<a href="mailto:info@electromusic.com">jim35068@gmail.com</a></p>
-    </footer>
+<header>
+<h1>電子音樂</h1>
+<p>沉浸在節奏與旋律交錯的世界</p>
+</header>
+<main>
+<section class="intro">
+<h2>關於電子音樂</h2>
+<p>電子音樂是一種利用電子合成器、電腦或其他數位工具創作的音樂形式，展現出強烈的科技感與創新精神。</p>
+</section>
+<section class="player">
+<h2>聆聽範例</h2>
+<button class="play-button">播放音樂</button>
+</section>
+</main>
+<footer>
+<p>聯絡我們：<a href="mailto:info@electromusic.com">jim35068@gmail.com</a></p>
+</footer>
 </body>
 </html>
